@@ -17,4 +17,9 @@ html {
     @include abstracts.breakpoint(lg) {
         --header-bg-color: #fff;
     }
+
+    --menu-column-hover-color:#0071DC;
+    --main-column-width: 292px;
+    --inner-padding: 30px;
+    
 }
